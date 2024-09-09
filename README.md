@@ -1,7 +1,3 @@
-Here's a README template for your GitHub repository:
-
----
-
 # HeadThunder
 
 HeadThunder is a mini version of Headhunter, designed as a single-page application. Built using Next.js, TypeScript, and Next UI, this project demonstrates a simplified job listing and search functionality.
