@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Frontend Developer",
+    "description": "Seeking a skilled Frontend Developer with experience in React.js to build and maintain web applications.",
+    "sallaryAt": 60000,
+    "sallaryEnd": 80000,
+    "location": "New York, NY"
+  },
+  {
+    "title": "Backend Developer",
+    "description": "Hiring a Backend Developer proficient in Node.js to manage the interchange of data between the server and users.",
+    "sallaryAt": 70000,
+    "sallaryEnd": 90000,
+    "location": "San Francisco, CA"
+  },
+  {
+    "title": "UX/UI Designer",
+    "description": "Looking for a creative UX/UI Designer to design user interfaces for mobile and web applications.",
+    "sallaryAt": 50000,
+    "sallaryEnd": 75000,
+    "location": "Austin, TX"
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "We are searching for a Full Stack Developer with experience in both frontend and backend technologies.",
+    "sallaryAt": 65000,
+    "sallaryEnd": 85000,
+    "location": "Chicago, IL"
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Seeking a Data Scientist with experience in machine learning and data analysis to help drive business decisions.",
+    "sallaryAt": 80000,
+    "sallaryEnd": 110000,
+    "location": "Boston, MA"
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Looking for a DevOps Engineer to manage and automate our infrastructure and deployment pipelines.",
+    "sallaryAt": 75000,
+    "sallaryEnd": 100000,
+    "location": "Seattle, WA"
+  },
+  {
+    "title": "Project Manager",
+    "description": "Hiring a Project Manager to oversee software development projects and ensure timely delivery.",
+    "sallaryAt": 60000,
+    "sallaryEnd": 85000,
+    "location": "Los Angeles, CA"
+  },
+  {
+    "title": "Quality Assurance Engineer",
+    "description": "Seeking a Quality Assurance Engineer to test and ensure the quality of our software products.",
+    "sallaryAt": 55000,
+    "sallaryEnd": 75000,
+    "location": "Denver, CO"
+  },
+  {
+    "title": "Mobile App Developer",
+    "description": "Looking for a Mobile App Developer with experience in iOS and Android to develop mobile applications.",
+    "sallaryAt": 70000,
+    "sallaryEnd": 95000,
+    "location": "Miami, FL"
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "Hiring a Cloud Engineer to design and manage cloud-based infrastructure.",
+    "sallaryAt": 85000,
+    "sallaryEnd": 120000,
+    "location": "Remote"
+  },
+  {
+    "title": "Software Engineer",
+    "description": "We need a Software Engineer proficient in Python and Django to develop and maintain web applications.",
+    "sallaryAt": 70000,
+    "sallaryEnd": 90000,
+    "location": "Portland, OR"
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Seeking a Data Analyst with experience in SQL and data visualization tools to analyze large datasets.",
+    "sallaryAt": 60000,
+    "sallaryEnd": 80000,
+    "location": "Chicago, IL"
+  },
+  {
+    "title": "Security Engineer",
+    "description": "Looking for a Security Engineer to ensure the security of our systems and protect against cyber threats.",
+    "sallaryAt": 85000,
+    "sallaryEnd": 115000,
+    "location": "New York, NY"
+  },
+  {
+    "title": "Network Administrator",
+    "description": "Hiring a Network Administrator to manage and maintain our company's network infrastructure.",
+    "sallaryAt": 65000,
+    "sallaryEnd": 85000,
+    "location": "San Jose, CA"
+  },
+  {
+    "title": "Systems Engineer",
+    "description": "Seeking a Systems Engineer to design and implement IT infrastructure solutions.",
+    "sallaryAt": 75000,
+    "sallaryEnd": 95000,
+    "location": "Washington, D.C."
+  },
+  {
+    "title": "Database Administrator",
+    "description": "Looking for a Database Administrator to manage and optimize our SQL databases.",
+    "sallaryAt": 70000,
+    "sallaryEnd": 90000,
+    "location": "Boston, MA"
+  },
+  {
+    "title": "Technical Support Specialist",
+    "description": "Hiring a Technical Support Specialist to provide support for software and hardware issues.",
+    "sallaryAt": 50000,
+    "sallaryEnd": 65000,
+    "location": "Philadelphia, PA"
+  },
+  {
+    "title": "IT Manager",
+    "description": "Seeking an IT Manager to oversee our IT department and manage technology strategies.",
+    "sallaryAt": 90000,
+    "sallaryEnd": 120000,
+    "location": "Atlanta, GA"
+  },
+  {
+    "title": "Product Manager",
+    "description": "Looking for a Product Manager to lead product development and ensure successful product launches.",
+    "sallaryAt": 80000,
+    "sallaryEnd": 105000,
+    "location": "San Diego, CA"
+  },
+  {
+    "title": "Marketing Specialist",
+    "description": "Hiring a Marketing Specialist to develop and implement marketing strategies for our products.",
+    "sallaryAt": 55000,
+    "sallaryEnd": 75000,
+    "location": "Phoenix, AZ"
+  },
+  {
+    "title": "Content Writer",
+    "description": "Seeking a Content Writer to create engaging content for our website and social media channels.",
+    "sallaryAt": 45000,
+    "sallaryEnd": 60000,
+    "location": "Remote"
+  },
+  {
+    "title": "SEO Specialist",
+    "description": "Looking for an SEO Specialist to optimize our website and improve our search engine rankings.",
+    "sallaryAt": 50000,
+    "sallaryEnd": 70000,
+    "location": "Tampa, FL"
+  },
+  {
+    "title": "Social Media Manager",
+    "description": "Hiring a Social Media Manager to manage and grow our social media presence.",
+    "sallaryAt": 55000,
+    "sallaryEnd": 75000,
+    "location": "Orlando, FL"
+  },
+  {
+    "title": "Graphic Designer",
+    "description": "Seeking a Graphic Designer to create visual content for our marketing campaigns.",
+    "sallaryAt": 45000,
+    "sallaryEnd": 65000,
+    "location": "Charlotte, NC"
+  },
+  {
+    "title": "Sales Manager",
+    "description": "Looking for a Sales Manager to lead our sales team and drive revenue growth.",
+    "sallaryAt": 70000,
+    "sallaryEnd": 100000,
+    "location": "Dallas, TX"
+  },
+  {
+    "title": "Customer Support Representative",
+    "description": "Hiring a Customer Support Representative to assist customers with inquiries and support issues.",
+    "sallaryAt": 40000,
+    "sallaryEnd": 55000,
+    "location": "Las Vegas, NV"
+  },
+  {
+    "title": "Human Resources Manager",
+    "description": "Seeking a Human Resources Manager to oversee recruitment, employee relations, and compliance.",
+    "sallaryAt": 75000,
+    "sallaryEnd": 95000,
+    "location": "Houston, TX"
+  },
+  {
+    "title": "Business Analyst",
+    "description": "Looking for a Business Analyst to analyze business processes and recommend solutions.",
+    "sallaryAt": 65000,
+    "sallaryEnd": 85000,
+    "location": "Nashville, TN"
+  },
+  {
+    "title": "Operations Manager",
+    "description": "Hiring an Operations Manager to oversee daily operations and improve efficiency.",
+    "sallaryAt": 80000,
+    "sallaryEnd": 105000,
+    "location": "Salt Lake City, UT"
+  },
+  {
+    "title": "Financial Analyst",
+    "description": "Seeking a Financial Analyst to analyze financial data and provide insights for decision-making.",
+    "sallaryAt": 70000,
+    "sallaryEnd": 90000,
+    "location": "Pittsburgh, PA"
+  },
+  {
+    "title": "Supply Chain Manager",
+    "description": "Looking for a Supply Chain Manager to manage logistics and supply chain operations.",
+    "sallaryAt": 75000,
+    "sallaryEnd": 95000,
+    "location": "Cincinnati, OH"
+  }
+]
